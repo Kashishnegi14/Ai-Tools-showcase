@@ -55,7 +55,7 @@ npm run dev # or npm start if using CRA
 
 ✅ Responsive on mobile, tablet, and desktop
 
-✅ 1-min screen recording with demo (no voiceover)
+
 
 🧠 Author
 Kashish Negi
